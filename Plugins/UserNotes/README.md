@@ -6,4 +6,4 @@
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat
 [paypal-link]: https://paypal.me/MircoWittrien
 
-Allows you to write your own user notes wihtout a character limit.
+Allows you to write your own user notes without a character limit.
